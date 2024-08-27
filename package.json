@@ -1,0 +1,15 @@
+{
+  "name": "groups-static-upstream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "noop": "echo 'noop'",
+    "build": "npm run noop",
+    "start": "npm run noop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
